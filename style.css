@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  .luas-segitiga, .keliling-segitiga {
+    margin-top: 20px;
+  }
+  
+  .hasil-luas, .hasil-keliling {
+    margin-top: 20px;
+  }
+  
+  input {
+    width: 100px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  input[type="submit"] {
+    background-color: #0099ff;
+    color: white;
+    padding: 10px;
+    border: none;
+  }
+  
